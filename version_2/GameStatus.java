@@ -3,7 +3,7 @@
  *
  * STUDENTS: Nothing to change here.
  *
- * @author Mst.Ayesha Siddika
+ * @author Mst. Ayesha Siddika
  */
 
 public enum GameStatus {
